@@ -43,7 +43,7 @@ _________________________________________________________""")
     print("""\x1b[0;33m ______________________________________________
 | [•]author: Dapunta                           |
 | [•]facebook: facebook.com/Dapunta.Khurayra.X |
-| [•]recode by: Sptty Chan                     |
+| [•]recode by: Sptty Chan x Ezily LiZi        |
 | [•]facebook: facebook.com/gusti.gomes.359    |
 -______________________________________________-""")
 host="https://mbasic.facebook.com"
